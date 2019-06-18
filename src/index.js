@@ -19,7 +19,7 @@ const client = new ApolloClient({
 });
 
 
-const Notfound = () => <h1>Not found</h1>;
+const Notfound = () => <h1>Not found ....</h1>;
  
 
 class App extends React.Component {
@@ -64,7 +64,7 @@ class App extends React.Component {
 }
 
 const routing = (
-  <Router>
+  <Router basename={process.env.PUBLIC_URL}>
     <div>
     	<Switch>
 	      <Route exact path="/" component={App} />

@@ -24,7 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://linghenrik.github.io/linghenrik.github.io",
+  "homepage": "https://linghenrik.github.io/news_reader",
   "eslintConfig": {
     "extends": "react-app"
   },
