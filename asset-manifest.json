@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/linghenrik.github.io/static/js/main.a2f75e69.chunk.js",
-    "main.js.map": "/linghenrik.github.io/static/js/main.a2f75e69.chunk.js.map",
-    "runtime~main.js": "/linghenrik.github.io/static/js/runtime~main.cf7570a4.js",
-    "runtime~main.js.map": "/linghenrik.github.io/static/js/runtime~main.cf7570a4.js.map",
-    "static/js/2.ee8d600e.chunk.js": "/linghenrik.github.io/static/js/2.ee8d600e.chunk.js",
-    "static/js/2.ee8d600e.chunk.js.map": "/linghenrik.github.io/static/js/2.ee8d600e.chunk.js.map",
-    "index.html": "/linghenrik.github.io/index.html",
-    "precache-manifest.b0ae0a9c64dba2a24c1ce2bd7aa7b5a5.js": "/linghenrik.github.io/precache-manifest.b0ae0a9c64dba2a24c1ce2bd7aa7b5a5.js",
-    "service-worker.js": "/linghenrik.github.io/service-worker.js"
+    "main.js": "/news_reader/static/js/main.fe89670c.chunk.js",
+    "main.js.map": "/news_reader/static/js/main.fe89670c.chunk.js.map",
+    "runtime~main.js": "/news_reader/static/js/runtime~main.e99bc9a7.js",
+    "runtime~main.js.map": "/news_reader/static/js/runtime~main.e99bc9a7.js.map",
+    "static/js/2.ee8d600e.chunk.js": "/news_reader/static/js/2.ee8d600e.chunk.js",
+    "static/js/2.ee8d600e.chunk.js.map": "/news_reader/static/js/2.ee8d600e.chunk.js.map",
+    "index.html": "/news_reader/index.html",
+    "precache-manifest.2f85e3de7638cdb46272ae6e1c5f94d0.js": "/news_reader/precache-manifest.2f85e3de7638cdb46272ae6e1c5f94d0.js",
+    "service-worker.js": "/news_reader/service-worker.js"
   }
 }
